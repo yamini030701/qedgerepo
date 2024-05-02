@@ -11,3 +11,10 @@ public class Main {
 // Outputs "I just got executed!"
  
 
+#feature303 by developer
+#code is here
+// Instance Method
+void method_name(){
+  body // instance area
+}
+
